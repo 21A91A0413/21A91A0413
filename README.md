@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @21A91A0413
+- 👋 Hi, I’m @snehaaishwarya
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c language
+- 🌱 I’m solving problems on python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
